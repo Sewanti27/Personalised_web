@@ -1,0 +1,190 @@
+a{
+  font-size:35px;
+  margin:0 35px;
+  padding-top:20px;
+  font-family: 'Dongle', sans-serif;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+body{
+  text-align:center;
+  margin:0;
+  font-family: 'Dongle', sans-serif;
+}
+
+h1{
+  margin:0;
+  padding-top:85px;
+  font-family: 'Sacramento', cursive;
+  color:white;
+  font-size: 343.75%;
+}
+
+p{
+  margin-bottom:50px;
+  padding-bottom:30px;
+  font-family: 'Dongle', sans-serif;
+  color:#CAE8D5;
+  font-size:30px;
+}
+
+h2{
+  font-size:40px;
+  color: #00334E;
+}
+
+h3{
+  font-size:30px;
+  color: #00334E;
+}
+
+/*****************border***************/
+hr{
+  border-style:none none dotted none;
+  border-color:#00334E;
+  width:5%;
+  height:5%;
+  border-width:5px;
+}
+/***********Divions1*******************/
+.bottom-container{
+  padding:30px;
+  background-color:#145374;
+}
+
+.middle-container{
+  background-color:#5588A3;
+  padding-top:60px;
+  padding-bottom:50px;
+}
+
+.top-container{
+  background-color: #00334E;
+  margin:0;
+  padding-top:30px;
+}
+
+/********************************Image Editing***********************/
+.image0{
+  height:250px;
+  position:relative;
+  left:115px;
+  size:50px;
+}
+.image1{
+  height:100px;
+  position:relative;
+  top:200px;
+  right:390px;
+}
+
+.image2{
+  height:100px;
+  position:absolute;
+  bottom:300px;
+  left:900px;
+}
+
+.image3{
+  height:300px;
+  width:100%;
+}
+.image5{
+  height:300px;
+  position:relative;
+  bottom:310px;
+  right:200px;
+}
+.image6{
+  height:290px;
+  position:relative;
+  bottom:310px;
+  left:100px;
+
+}
+.image7{
+  height:295px;
+  position:relative;
+  bottom:613px;
+}
+
+.image9{
+  height:100px;
+  position:relative;
+  bottom:950px;
+  left:150px;
+}
+
+.witch{
+  height:200px;
+  background-color:white;
+  border-radius:100%;
+}
+
+.skills-img{
+  height:250px;
+  border-radius:100%;
+  float:left;
+  margin-right:50px;
+}
+
+.design-dev{
+  height:250px;
+  float:right;
+}
+/********************DIVISION EDITING**********************/
+.profile{
+  width:50%;
+  margin:auto;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+}
+/**********************Footerpart***********************/
+.footer-link{
+  color:#00334E;
+}
+.copy{
+  margin-bottom:0;
+  padding-bottom:0;
+  font-size:1.5rem;
+}
+/********************Button Generator*****************/
+.btn {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #5588A3);
+   background-image: -moz-linear-gradient(top, #3D94F6, #5588A3);
+   background-image: -ms-linear-gradient(top, #3D94F6, #5588A3);
+   background-image: -o-linear-gradient(top, #3D94F6, #5588A3);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #5588A3);
+   -webkit-border-radius: 100px;
+   -moz-border-radius: 100px;
+   border-radius: 100px;
+   color: #FFFFFF;
+   font-family: Times New Roman;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 15px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 11px -4px 53px #000000;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #145374;
+   border: solid #0059A0 1px;
+   -webkit-border-radius: 94px;
+   -moz-border-radius: 94px;
+   border-radius: 94px;
+   text-decoration: none;
+}
